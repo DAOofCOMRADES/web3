@@ -1,0 +1,16 @@
+{
+  "title": "The problem with existing yield farms",
+  "text": "Liquidity leaves farms at an alarming rate, “42% of yield farmers that enter a farm on the day it launches exit within 24 hours. Around 16% leave within 48 hours, and by the third day, 70% of these users would have withdrawn from the contract.“",
+  "section": [
+    {
+      "title": "The Comrades Solution",
+      "content": "Bonds vest over a period of days set by the protocol and you are free to claim any pro-rata share.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Support your Protocols",
+      "content": "When users purchase Bonds through the Comrades Marketplace, it allows Protocols to accumulate liquidity to secure longevity and price stability for everyone involved. This makes bonds a mutually beneficial exchange.",
+      "icon": "notes.svg"
+    }
+  ]
+}
